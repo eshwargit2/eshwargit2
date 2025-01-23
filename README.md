@@ -4,7 +4,7 @@
 Computer Science Enginnering Student
 
 
-- 🔭 Here's My [Portfolio](https://eshwar-portfolio-60031300721.development.catalystserverless.in/app/index.html)
+- 🔭 Here's My [Portfolio](https://soundharesh.netlify.app/)
 - 🌱 I’m currently learning web development
 - 💬 Ask me about Tech
 - 📫 How to reach me:
