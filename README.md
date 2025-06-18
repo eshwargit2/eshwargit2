@@ -4,7 +4,7 @@
 Computer Science Enginnering Student
 
 
-- 🔭 Here's My [Portfolio](https://soundharesh.netlify.app/)
+- 🔭 Here's My [Portfolio](https://www.soundharesh.me)
 - 🌱 I’m currently learning web development
 - 💬 Ask me about Tech
 - 📫 How to reach me:
