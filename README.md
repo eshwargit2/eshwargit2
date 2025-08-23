@@ -5,7 +5,7 @@ Computer Science Enginnering Student
 
 
 - 🔭 Here's My [Portfolio](https://soundharesh.me/)
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Ethical Hacking 
 - 💬 Ask me about Tech
 - 📫 How to reach me:
   <br/>[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> ](https://www.instagram.com/eshwar_creativity/profilecard/?igsh=MWlmMnRjZnZzdjl6NQ==)
