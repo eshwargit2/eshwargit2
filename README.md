@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 ## `> whoami`
 
 ```bash
