@@ -1,122 +1,135 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff41&height=220&section=header&text=SOUNDHARESHWARAN%20S.R&fontSize=42&fontColor=00ff41&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f1147,100:6e40c9&height=240&section=header&text=Soundhareshwaran%20S.R&fontSize=44&fontColor=e6edf3&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Cyber%20Security%20Analyst&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40soundhareshwaran%3A~%24+whoami;>+CS+Engineering+Student;>+Aspiring+Cyber+Security+Analyst;>+Building+with+IoT+%2B+Web+%2B+AI;>+Currently+exploiting...+bugs%2C+not+systems+%3A);access_granted+%E2%9C%94" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A371F7&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=%3E+Building+with+IoT+%2B+Web+%2B+AI;%3E+Learning+Cyber+Security+%F0%9F%9B%A1%EF%B8%8F;%3E+Founder+%40+Thanjai+Tech+Studio;%3E+Keep+building%2C+keep+breaking%2C+keep+learning" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CSE_Student-6e40c9?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Cyber_Security-2f81f7?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/IoT-3fb950?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Web_Dev-f778ba?style=for-the-badge&labelColor=161b22"/>
+
+<br/><br/>
+
+<a href="https://soundhareshwaran.web.app"><img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=firefox&logoColor=white&labelColor=161b22"/></a>
+<a href="https://x.com/Eshwar_Creative"><img src="https://img.shields.io/badge/X-e6edf3?style=for-the-badge&logo=x&logoColor=black&labelColor=161b22"/></a>
+<a href="https://in.linkedin.com/in/soundhareshwaran-s-r-85a1012a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22"/></a>
+<a href="https://www.instagram.com/eshwar_creativity/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161b22"/></a>
 
 </div>
 
-## `> whoami`
+<br/>
 
-```bash
+## 🌙 About Me
+
+```json
 {
-  "name"        : "Soundhareshwaran S.R",
-  "role"        : "Computer Science Engineering Student",
-  "currently_learning" : "Cyber Security",
-  "portfolio"   : "https://soundhareshwaran.web.app",
-  "founder_at"  : "Thanjai Tech Studio -> https://thanjaitechstudio.web.app/",
-  "developer_at": "College Circle -> https://collegecircle.app/",
-  "ask_me_about": ["Tech", "IoT", "Web Dev", "Security basics"],
-  "status"      : "compiling knowledge... 99% done"
+  "name": "Soundhareshwaran S.R",
+  "role": "Computer Science Engineering Student",
+  "currently_learning": "Cyber Security",
+  "interests": ["IoT", "Web Dev", "AI", "Security Basics"],
+  "founder_at": "Thanjai Tech Studio",
+  "developer_at": "College Circle",
+  "status": "compiling knowledge... 99% done"
 }
 ```
 
-## `> ps -ef | grep active_projects`
+<br/>
 
-<div align="center">
+## 🚀 Active Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🚀 Founder — Thanjai Tech Studio
+### 🏢 Thanjai Tech Studio
+**Founder**
+
 Startup building digital products & solutions.
-<br/>
-[![Visit](https://img.shields.io/badge/Visit_Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://thanjaitechstudio.web.app/)
+
+<a href="https://thanjaitechstudio.web.app/"><img src="https://img.shields.io/badge/Visit_Website-6e40c9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 💻 Developer — College Circle
+### 🎓 College Circle
+**Developer**
+
 Contributing as a developer on the platform.
-<br/>
-[![Visit](https://img.shields.io/badge/Visit_Platform-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://collegecircle.app/)
+
+<a href="https://collegecircle.app/"><img src="https://img.shields.io/badge/Visit_Platform-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22"/></a>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-## `> connect --socials`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://soundhareshwaran.web.app)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/Eshwar_Creative)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/soundhareshwaran-s-r-85a1012a7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eshwar_creativity/profilecard/?igsh=MWlmMnRjZnZzdjl6NQ==)
-
-</div>
-
-## `> ls tech_stack/`
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages & Web
-<img src="https://img.icons8.com/color/48/c-programming.png" title="C" alt="C" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" alt="C++" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/python.png" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/bootstrap--v2.png" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
+**Languages**
 
-### Backend, DB & Mobile
-<img src="https://img.icons8.com/fluency/50/node-js.png" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/arcade/48/sql.png" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/color/48/react-native.png" title="React Native" alt="React Native" width="45" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css&theme=dark&perline=6" alt="languages"/>
 
-### IoT & Hardware
-<img src="https://img.icons8.com/color/30/electronics.png" title="Electronics" alt="Electronics" width="35" height="35"/>&nbsp;
-<img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" alt="Arduino" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/stickers/50/arduino-uno-board.png" title="Arduino Uno" alt="Arduino Uno" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/fluency/50/raspberry-pi-zero.png" title="Raspberry Pi" alt="Raspberry Pi" width="45" height="45"/>&nbsp;
-<img src="https://img.icons8.com/?size=50&id=qLO1sHTgt0rq&format=png&color=000000" title="Hardware" alt="Hardware" width="45" height="45"/>&nbsp;
+**Frameworks, Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express,mongodb,mysql,firebase&theme=dark&perline=7" alt="web"/>
+
+**IoT & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=2" alt="iot"/>
+
+**Security & Tools**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,git,github,vscode,postman,figma&theme=dark&perline=8" alt="tools"/>
 
 </div>
 
-## `> cat stats.log`
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshwargit2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwargit2&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eshwargit2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=2f81f7&text_color=c9d1d9&count_private=true" width="48%" alt="stats"/>
+<img src="https://streak-stats.demolab.com/?user=eshwargit2&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=f778ba&currStreakLabel=a371f7" width="48%" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwargit2&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="60%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwargit2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" width="60%" alt="top languages"/>
+
+<br/>
+
+<img src="assets/eshwar-activity-dark.svg" width="100%" alt="ESHWAR S R contribution graph"/>
+
+<br/>
+
+<a href="https://github.com/eshwargit2"><img src="https://img.shields.io/github/followers/eshwargit2?style=for-the-badge&logo=github&logoColor=white&color=6e40c9&labelColor=161b22" alt="followers"/></a>
+<a href="https://github.com/eshwargit2?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_All-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="repositories"/></a>
+<a href="https://soundhareshwaran.web.app"><img src="https://img.shields.io/badge/Open_to-Collaborate-3fb950?style=for-the-badge&logo=handshake&logoColor=white&labelColor=161b22" alt="collaborate"/></a>
 
 </div>
 
-## `> matrix --status`
+<br/>
 
+<!-- ============ FOOTER ============ -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/l4KhQ7NvW7SkVaKuc/giphy.gif" width="100%" style="border-radius: 10px;"/>
+<img src="https://komarev.com/ghpvc/?username=eshwargit2&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS&labelColor=161b22" alt="views"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-```
-$ echo "Thanks for stopping by. Keep building, keep breaking, keep learning."
-> Thanks for stopping by. Keep building, keep breaking, keep learning.
+```bash
+$ echo "Thanks for stopping by."
+Thanks for stopping by.
 $ exit
-process exited with code 0 ✔
 ```
 
-<img src="https://komarev.com/ghpvc/?username=eshwargit2&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:1f1147,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f0f0f&height=120&section=footer" width="100%"/>
